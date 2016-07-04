@@ -1,4 +1,8 @@
-# gatsby-starter-default
-The default Gatsby starter
+# Proving Contraries
 
-Install this starter (assuming Gatsby is installed) by running from your CLI: gatsby new gatsby-example-site
+A theology blog! Not much to see here just yet...
+
+### Developing locally
+* `git clone`
+* `npm install`
+* `./node_modules/.bin/gatsby develop`
