@@ -15,7 +15,7 @@ const FrontPagePostPreview = ({post}) => (
       style={{
         ...fontSizeToPx('15px'),
         fontFamily: '"Alegreya SC",sans-serif',
-        marginBottom: 0,
+        marginBottom: rhythm(0),
       }}
     >
       {post.data.category}
@@ -34,7 +34,8 @@ const FrontPagePostPreview = ({post}) => (
     </Link>
     <div
       style={{
-        marginBottom: rhythm(1/4),
+        ...fontSizeToPx('14px'),
+        marginBottom: rhythm(1/2),
       }}
     >
       By {post.data.authorId} <Bullet /> {moment(post.data.createdAt).format('MMM D, YYYY')}

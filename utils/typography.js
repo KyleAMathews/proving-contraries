@@ -53,7 +53,7 @@ const options = {
       },
     },
     h4: {
-      lineHeight: 1.4,
+      lineHeight: 1.5,
     },
     a: {
       color: '#9E5757',
