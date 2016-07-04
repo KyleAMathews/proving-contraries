@@ -11,15 +11,6 @@ const FrontPagePostPreview = ({post}) => (
       marginLeft: rhythm(1/2),
     }}
   >
-    <h6
-      style={{
-        ...fontSizeToPx('15px'),
-        fontFamily: '"Alegreya SC",sans-serif',
-        marginBottom: rhythm(0),
-      }}
-    >
-      {post.data.category}
-    </h6>
     <Link
       to={post.path}
     >
@@ -35,10 +26,11 @@ const FrontPagePostPreview = ({post}) => (
     <div
       style={{
         ...fontSizeToPx('14px'),
-        marginBottom: rhythm(1/2),
+        marginBottom: rhythm(1/4),
+        marginTop: rhythm(-1/8),
       }}
     >
-      By {post.data.authorId} <Bullet /> {moment(post.data.createdAt).format('MMM D, YYYY')}
+      By {post.data.authorId} <Bullet /> {moment(post.data.createdAt).format('MMM D, YYYY')} <Bullet /> {post.data.category}
     </div>
     <div>
       We traditionally represent pain and emotional burdens as loads that we carry around with us. (Mosiah 18:8, Matthew 11:28-30, etc). Physically, we represent them as mass.
