@@ -49,7 +49,7 @@ module.exports = React.createClass({
                   paddingLeft: rhythm(1/2),
                 }}
               >
-                Proving Contrarities
+                Proving Contraries
               </h4>
             </Link>
           </Container>
