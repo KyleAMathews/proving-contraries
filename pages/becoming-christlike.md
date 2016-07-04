@@ -2,7 +2,7 @@
 title: Becoming Christlike
 category: Christlike Attributes
 createdAt: 2016-07-03T22:35:27-07:00
-authorId: calsam
+authorId: calcsam
 ---
 *Given at my first conference as a missionary, somewhere in Asia, January 2009*
 
