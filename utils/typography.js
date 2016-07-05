@@ -64,7 +64,10 @@ const options = {
       textDecoration: 'underline',
     },
     blockquote: {
-      fontStyle: 'italic',
+      marginLeft: rhythm(3),
+      marginRight: 0,
+      marginTop: rhythm(1.5),
+      marginBottom: rhythm(1.5),
     },
     'p > img': {
       marginBottom: 0,
