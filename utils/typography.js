@@ -66,6 +66,9 @@ const options = {
     blockquote: {
       fontStyle: 'italic',
     },
+    'p > img': {
+      marginBottom: 0,
+    },
   }),
 }
 const typography = new Typography(options)

@@ -10,7 +10,7 @@ What is the relationship between the first principles of the gospel and Christli
 
 To the prophet Mormon, this was not an abstract philosophical question, to be discussed and debated in the coffeehouses and salons of his day. It was very real.
 
-Mormon’s world, the civilization and society that he knew, was collapsing around him. He seed the wickedness of the Nephites and vows never to lead them again in battle. He tells his readers that he “repented” of that oath — “and they gave me command of their armies, for they looked upon me as though I could deliver them from their afflictions.” (Mormon 5:1)
+Mormon’s world, the civilization and society that he knew, was collapsing around him. He saw the wickedness of the Nephites and vows never to lead them again in battle. He tells his readers that he “repented” of that oath — “and they gave me command of their armies, for they looked upon me as though I could deliver them from their afflictions.” (Mormon 5:1)
 
 But the wise Mormon knows better, because he understands that the true affliction his people have is not the Laminates, but their own sins. He writes:
 
