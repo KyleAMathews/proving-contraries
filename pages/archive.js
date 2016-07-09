@@ -52,6 +52,7 @@ class Archive extends React.Component {
         <ul
           style={{
             listStyle: 'none',
+            margin: 0,
           }}
         >
           {items}
