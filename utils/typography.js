@@ -1,6 +1,6 @@
 import Typography from 'typography'
 import ms from 'modularscale'
-import { TABLET_MEDIA_QUERY } from 'typography-breakpoint-constants'
+import { MOBILE_MEDIA_QUERY, TABLET_MEDIA_QUERY } from 'typography-breakpoint-constants'
 
 
 const options = {
@@ -44,12 +44,17 @@ const options = {
       background: '#fffdf8',
     },
     '.title-display': {
-      ...adjustFontSizeTo(`${ms(8/5, 'octave') * options.baseFontSize.slice(0, -2)}px`),
+      ...adjustFontSizeTo(`${ms(9/5, 'octave') * options.baseFontSize.slice(0, -2)}px`),
       fontFamily: '"Alegreya SC",sans-serif',
     },
     [TABLET_MEDIA_QUERY]: {
       'h1.title-display': {
-        ...adjustFontSizeTo(`${ms(8/5, 'golden') * options.baseFontSize.slice(0, -2)}px`),
+        ...adjustFontSizeTo(`${ms(7/5, 'golden') * options.baseFontSize.slice(0, -2)}px`),
+      },
+    },
+    [MOBILE_MEDIA_QUERY]: {
+      'blockquote': {
+        marginLeft: rhythm(2),
       },
     },
     h4: {

@@ -3,12 +3,23 @@ import typography, { fontSizeToPx, rhythm } from 'utils/typography'
 import { Link } from 'react-router'
 import moment from 'moment'
 import Bullet from 'components/Bullet'
+import gray from 'gray-percentage'
 
-const FrontPagePostPreview = ({post}) => (
+const addBorder = (notLast) => {
+  if (notLast) {
+    return `1px solid ${gray(90)}`
+  }
+}
+
+const FrontPagePostPreview = ({notLast, post}) => (
   <div
     style={{
       marginRight: rhythm(1/2),
       marginLeft: rhythm(1/2),
+      textAlign: 'center',
+      borderBottom: addBorder(notLast),
+      paddingBottom: `calc(${rhythm(2)} - 1px)`,
+      marginBottom: rhythm(2),
     }}
   >
     <Link
@@ -33,9 +44,9 @@ const FrontPagePostPreview = ({post}) => (
       By {post.data.authorId} <Bullet /> {moment(post.data.createdAt).format('MMM D, YYYY')} <Bullet /> {post.data.category}
     </div>
     <div>
-      We traditionally represent pain and emotional burdens as loads that we carry around with us. (Mosiah 18:8, Matthew 11:28-30, etc). Physically, we represent them as mass.
+      {post.data.excerpt}
+      {' … '}<Link to={post.path}>more »</Link>
     </div>
-    <Link to={post.path}>more</Link>
   </div>
 )
 
