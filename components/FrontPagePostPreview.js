@@ -1,5 +1,5 @@
 import React from 'react'
-import typography, { fontSizeToPx, rhythm } from 'utils/typography'
+import typography, { adjustFontSizeTo, rhythm } from 'utils/typography'
 import { Link } from 'react-router'
 import moment from 'moment'
 import Bullet from 'components/Bullet'
@@ -36,7 +36,7 @@ const FrontPagePostPreview = ({notLast, post}) => (
     </Link>
     <div
       style={{
-        ...fontSizeToPx('14px'),
+        ...adjustFontSizeTo('14px'),
         marginBottom: rhythm(1/4),
         marginTop: rhythm(-1/8),
       }}

@@ -38,7 +38,7 @@ module.exports = function (content) {
   const body = md.render(meta.body)
   const result = objectAssign({}, meta.attributes, {
     body,
-    excerpt: excerptHtml(body, {pruneLength: 300}),
+    excerpt: excerptHtml(body),
   })
   this.value = result
   return `module.exports = ${JSON.stringify(result)}`

@@ -4,7 +4,7 @@ import DocumentTitle from 'react-document-title'
 import moment from 'moment'
 
 import { config } from 'config'
-import { rhythm, fontSizeToPx } from 'utils/typography'
+import { rhythm, adjustFontSizeTo } from 'utils/typography'
 import Bullet from 'components/Bullet'
 
 module.exports = React.createClass({
@@ -27,7 +27,7 @@ module.exports = React.createClass({
           </h1>
           <div
             style={{
-              ...fontSizeToPx('15px'),
+              ...adjustFontSizeTo('15px'),
               color: gray(40),
               marginBottom: rhythm(1),
             }}
