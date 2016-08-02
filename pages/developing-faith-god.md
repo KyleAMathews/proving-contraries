@@ -2,7 +2,7 @@
 title: Developing faith in God
 category: Talks
 createdAt: 2016-06-26T23:30:50.000Z
-authorId: jlocke
+authorId: Locke
 ---
 
 _The following is a talk I recently gave at the local [LDS church][0] I attend. Our church doesn't have paid ministry meaning everyone who attends occasionally takes their turn preaching and exhorting._

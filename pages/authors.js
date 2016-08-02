@@ -29,13 +29,21 @@ class Authors extends React.Component {
           <p>
             Pascal is pretty cool and should write a bio for himself.
           </p>
-          <h3>John Locke</h3>
+          <h3>Locke</h3>
           <p>
-            John is a software engineer and entreprenuer that lives in San Francisco.
+            Locke is a software engineer and entreprenuer that lives in San Francisco.
             He is fascinated by science and technology and the world of ideas. He loves
             to read and wander around San Francisco and other cities he finds himself in.
             He is fascinated by his Mormon intellectual inheritance and loves to mashup
             these ideas with other intellectual explorations.
+          </p>
+          <h3>Tyndale</h3>
+          <p> Tyndale is a religion-loving lawyer in
+            Silicon Valley.  She is actively engaged in
+            reexamining Mormonism in light of the simple
+            messages of love, grace, and freedom embodied
+            by the New Testament church and reinvigorated
+            by the Protestant Reformation.
           </p>
         </Container>
       </DocumentTitle>
