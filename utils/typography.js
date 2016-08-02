@@ -10,9 +10,9 @@ const options = {
     {
       name: 'Alegreya Sans',
       styles: [
-        '300',
-        '300i',
         '400',
+        '400i',
+        '700',
       ],
     },
     {
@@ -34,11 +34,11 @@ const options = {
     'serif',
   ],
   bodyFontFamily: ['Alegreya Sans', 'sans-serif'],
-  bodyWeight: 300,
+  bodyWeight: 400,
   headerWeight: 400,
-  boldWeight: 400,
+  boldWeight: 700,
   headerGray: 10,
-  bodyGray: 10,
+  bodyGray: 20,
   overrideStyles: ({ adjustFontSizeTo, rhythm }, options) => ({
     body: {
       background: '#fffdf8',
@@ -53,12 +53,16 @@ const options = {
       },
     },
     [MOBILE_MEDIA_QUERY]: {
-      'blockquote': {
-        marginLeft: rhythm(2),
+      blockquote: {
+        marginLeft: rhythm(1.5),
+        marginRight: 0,
       },
     },
     h4: {
       lineHeight: 1.5,
+    },
+    'h5,h6': {
+      marginBottom: rhythm(1/2),
     },
     a: {
       color: '#9E5757',
@@ -69,8 +73,9 @@ const options = {
       textDecoration: 'underline',
     },
     blockquote: {
+      ...adjustFontSizeTo('16px'),
       marginLeft: rhythm(3),
-      marginRight: 0,
+      marginRight: rhythm(1),
       marginTop: rhythm(1.5),
       marginBottom: rhythm(1.5),
     },

@@ -14,7 +14,13 @@ class Authors extends React.Component {
             textAlign: 'center',
           }}
         >
-          <h1 style={{marginBottom: rhythm(2)}}>Authors</h1>
+          <h1
+            style={{
+              fontFamily: '"Alegreya SC",sans-serif',
+            }}
+          >
+            Authors
+          </h1>
           <h3>Calcsam</h3>
           <p>
             Calcsam is pretty cool and should write a bio for himself.
@@ -23,11 +29,9 @@ class Authors extends React.Component {
           <p>
             John is a software engineer and entreprenuer that lives in San Francisco.
             He is fascinated by science and technology and the world of ideas. He loves
-            to read and wonder around San Francisco and other cities he finds himself in.
-          </p>
-          <p>
-            John likes to write idea mashups with ideas he's inherited from
-            Mormonism and from his other intellectual explorations.
+            to read and wander around San Francisco and other cities he finds himself in.
+            He is fascinated by his Mormon intellectual inheritance and loves to mashup
+            these ideas with other intellectual explorations.
           </p>
         </Container>
       </DocumentTitle>

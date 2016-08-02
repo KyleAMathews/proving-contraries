@@ -105,12 +105,6 @@ const indexPageHeader = (
       </Link>
     </MenuNavItem>
   </div>
-  <hr
-    style={{
-      marginBottom: `calc(${rhythm(2.5)} - 1px)`,
-      marginTop: rhythm(1/8),
-    }}
-  />
 </div>
 )
 
@@ -122,12 +116,6 @@ module.exports = React.createClass({
     }
   },
   render () {
-    // Responsive blockquote styles — too much marginLeft right now.
-    // about/authors/archive pages
-    // link author name to authors page.
-    // push/publish
-    // write group about what's our name for realz + let's
-    // have launch FHE monday + BLACKBERRY PIE!.
     // RSS feed
     // write a post?
     console.log(this.props.location)

@@ -41,6 +41,7 @@ class Archive extends React.Component {
         </li>
       )
     })
+
     return (
       <Container
         style={{
@@ -48,7 +49,13 @@ class Archive extends React.Component {
           textAlign: 'center',
         }}
       >
-        <h2>Archive</h2>
+        <h1
+          style={{
+            fontFamily: '"Alegreya SC",sans-serif',
+          }}
+        >
+          Archive
+        </h1>
         <ul
           style={{
             listStyle: 'none',
