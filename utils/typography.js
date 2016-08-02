@@ -37,8 +37,8 @@ const options = {
   bodyWeight: 400,
   headerWeight: 400,
   boldWeight: 700,
-  headerGray: 10,
-  bodyGray: 20,
+  headerGray: 15,
+  bodyGray: 30,
   overrideStyles: ({ adjustFontSizeTo, rhythm }, options) => ({
     body: {
       background: '#fffdf8',
