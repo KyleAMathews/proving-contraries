@@ -2,7 +2,7 @@
 title: Grace Has No Prerequisites
 authorId: Tyndale
 createdAt: 2016-08-01T20:07:00-07:00
-category: grace
+category: Grace
 ---
 
 I realized this week that, at my core, I have never understood grace. In
