@@ -21,6 +21,10 @@ class Authors extends React.Component {
           >
             Authors
           </h1>
+          <h3>[Laura]</h3>
+          <p>
+            [Laura] is pretty cool and should write a bio for herself.
+          </p>
           <h3>Pascal</h3>
           <p>
             Pascal is pretty cool and should write a bio for himself.
