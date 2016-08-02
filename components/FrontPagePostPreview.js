@@ -14,11 +14,9 @@ const addBorder = (notLast) => {
 const FrontPagePostPreview = ({notLast, post}) => (
   <div
     style={{
-      marginRight: rhythm(1/2),
-      marginLeft: rhythm(1/2),
-      textAlign: 'center',
       borderBottom: addBorder(notLast),
       paddingBottom: `calc(${rhythm(2)} - 1px)`,
+      textAlign: 'center',
       marginBottom: rhythm(2),
     }}
   >

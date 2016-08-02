@@ -51,6 +51,9 @@ const options = {
       'h1.title-display': {
         ...adjustFontSizeTo(`${ms(7/5, 'golden') * options.baseFontSize.slice(0, -2)}px`),
       },
+      h4: {
+        lineHeight: 1.45,
+      },
     },
     [MOBILE_MEDIA_QUERY]: {
       blockquote: {

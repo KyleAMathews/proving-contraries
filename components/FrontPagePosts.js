@@ -19,7 +19,7 @@ const FrontPagePosts = ({ pages }) => {
   return (
     <div
       style={{
-        width: 500,
+        width: 425,
         maxWidth: '100%',
         margin: '0 auto',
       }}
