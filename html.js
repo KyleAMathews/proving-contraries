@@ -16,11 +16,6 @@ module.exports = React.createClass({
   render () {
     const title = DocumentTitle.rewind()
 
-    let css
-    if (process.env.NODE_ENV === 'production') {
-      css = <style dangerouslySetInnerHTML={{ __html: require('!raw!./public/styles.css') }} />
-    }
-
     return (
       <html lang="en">
         <head>
@@ -34,7 +29,6 @@ module.exports = React.createClass({
           <link rel="shortcut icon" href={this.props.favicon} />
           <GoogleFont typography={typography} />
           <TypographyStyle typography={typography} />
-          {css}
         </head>
         <body>
           <div id="react-mount" dangerouslySetInnerHTML={{ __html: this.props.body }} />
