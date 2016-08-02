@@ -65,7 +65,7 @@ spent the last decade doing?  In my soul I never rested, because I could
 never do enough, because I trusted in my own obedience and checkboxes
 more than I trusted God.
 
-I thought I could *earn *forgiveness and grace.  But that’s just wrong
+I thought I could *earn* forgiveness and grace.  But that’s just wrong
 -- the radical truth of Christianity is that Christ "*for **his** sake
 has forgiven me all freely."* There is no minimum standard of obedience
 to access grace.  My sins do not mean I’m unworthy to pray; my sins are
