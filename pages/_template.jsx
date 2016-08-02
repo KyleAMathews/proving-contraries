@@ -32,9 +32,10 @@ const blogHeader = (
           style={{
             margin: 0,
             paddingLeft: rhythm(3/4),
+            fontFamily: '"Alegreya SC",sans-serif',
           }}
         >
-          Proving Contraries
+          Kindling Sparks
         </h5>
       </Link>
     </Container>
@@ -58,12 +59,13 @@ const indexPageHeader = (
         textDecoration: 'none',
       }}
     >
-      Proving Contraries
+      Kindling Sparks
     </Link>
   </Display>
   <div
     style={{
       textAlign: 'center',
+      marginBottom: rhythm(2),
     }}
   >
     <MenuNavItem>

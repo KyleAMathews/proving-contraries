@@ -1,4 +1,4 @@
-# Proving Contraries
+# Kindling Sparks
 
 A theology blog! Not much to see here just yet...
 

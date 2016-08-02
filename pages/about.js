@@ -10,8 +10,14 @@ class About extends React.Component {
           textAlign: 'center',
         }}
       >
-        <h2>About</h2>
-        <p>Proving Contraries is a group theology blog started by a small
+        <h1
+          style={{
+            fontFamily: '"Alegreya SC",sans-serif',
+          }}
+        >
+          About
+        </h1>
+        <p>Kindling Sparks is a group theology blog started by a small
           group of friends in 2016. We're currently composed of 4 Mormons and 1 Catholic.
         </p>
       </Container>
