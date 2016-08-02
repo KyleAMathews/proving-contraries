@@ -5,7 +5,6 @@ import sortBy from 'lodash/sortBy'
 import FrontPagePostPreview from 'components/FrontPagePostPreview'
 
 const FrontPagePosts = ({ pages }) => {
-  console.log(pages)
   let postsData = filter(pages, (page) =>
     page.file.ext === 'md' && page.path !== '/404/'
   )

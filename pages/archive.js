@@ -5,7 +5,6 @@ import sortBy from 'lodash/sortBy'
 import moment from 'moment'
 import { Link } from 'react-router'
 import { rhythm } from 'utils/typography'
-import Bullet from 'components/Bullet'
 
 class Archive extends React.Component {
   render () {
@@ -17,7 +16,6 @@ class Archive extends React.Component {
     let lastQuarter
     postsData.forEach((post) => {
       const quarter = moment(post.data.createdAt).format('QYYYY')
-      console.log(quarter)
       if (quarter !== lastQuarter) {
         items.push(
           <h6

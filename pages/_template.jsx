@@ -116,9 +116,6 @@ module.exports = React.createClass({
     }
   },
   render () {
-    // RSS feed
-    // write a post?
-    console.log(this.props.location)
     let header
     let maxWidth
     if (includes(['/', '/about/', '/authors/', '/archive/'], this.props.location.pathname)) {
