@@ -128,5 +128,5 @@ him. He has access to some sort of friction that dissipates the momentum
 of pain.
 
 As we figure out how to generate friction, to slow the pain of ourselves
-and others to a stop, *that* must be truly particpating in Christ's
+and others to a stop, *that* must be truly participating in Christ's
 atonement.
