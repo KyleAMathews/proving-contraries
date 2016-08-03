@@ -33,6 +33,23 @@ module.exports = React.createClass({
         <body>
           <div id="react-mount" dangerouslySetInnerHTML={{ __html: this.props.body }} />
           <script src={prefixLink(`/bundle.js?t=${BUILD_TIME}`)} />
+
+          <script
+            type="text/javascript"
+            dangerouslySetInnerHTML={{ __html: `
+              var clicky_site_ids = clicky_site_ids || [];
+              clicky_site_ids.push(100978228);
+              (function() {
+                var s = document.createElement('script');
+                s.type = 'text/javascript';
+                s.async = true;
+                s.src = '//static.getclicky.com/js';
+                ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+              })();
+          ` }}
+          />
+          <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100978228ns.gif" /></p></noscript>
+
         </body>
       </html>
     )
