@@ -1,0 +1,5 @@
+- [ ] RSS feed
+- [x] Remove console.logs and other dev remnants
+- [x] Add new blog posts
+- [ ] Add analytics
+- [ ] Add comments
