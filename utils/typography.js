@@ -5,7 +5,7 @@ import { MOBILE_MEDIA_QUERY, TABLET_MEDIA_QUERY } from 'typography-breakpoint-co
 
 const options = {
   baseFontSize: '18px',
-  baseLineHeight: '27px',
+  baseLineHeight: '26px',
   googleFonts: [
     {
       name: 'Alegreya Sans',
@@ -63,9 +63,6 @@ const options = {
     },
     h4: {
       lineHeight: 1.5,
-    },
-    'h5,h6': {
-      marginBottom: rhythm(1/2),
     },
     a: {
       color: '#9E5757',
