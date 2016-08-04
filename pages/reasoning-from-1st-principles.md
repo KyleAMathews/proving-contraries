@@ -173,7 +173,7 @@ arise and learn quickly on your feet (in part through 1st principle
 thinking).
 
 As [Joseph Smith said](https://en.wikiquote.org/wiki/Joseph_Smith,_Jr.),
-"A man is saved no faster than he gets knowledge" — saved in both a
+"A man is saved *no faster* than he gets knowledge" — saved in both a
 spiritual sense and saved from our troubles and woes.
 
 Joseph said on another occasion:
