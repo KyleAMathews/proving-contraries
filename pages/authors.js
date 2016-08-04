@@ -31,7 +31,11 @@ class Authors extends React.Component {
           </p>
           <h3>Pascal</h3>
           <p>
-            Pascal is pretty cool and should write a bio for himself.
+             Pascal is a software engineer in Silicon Valley. A convert to
+             Mormonism, he loves the expansive theology sketched in latter-day
+             scriptures and explored by Joseph Smith. He hopes to nourish the
+             trees of both modernity and the Church via some experimental
+             grafting.
           </p>
           <h3>Locke</h3>
           <p>
