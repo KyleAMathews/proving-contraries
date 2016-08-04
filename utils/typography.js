@@ -69,11 +69,10 @@ const options = {
     },
     a: {
       color: '#9E5757',
-      fontWeight: 600,
-      textDecoration: 'none',
+      textDecoration: 'underline',
     },
     'a:hover': {
-      textDecoration: 'underline',
+      textDecoration: 'none',
     },
     blockquote: {
       ...adjustFontSizeTo('16px'),
