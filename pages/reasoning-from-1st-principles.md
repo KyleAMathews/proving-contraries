@@ -6,19 +6,18 @@ createdAt: 2016-07-11T01:14:24.349Z
 ---
 
 Here in Silicon Valley, there's a meme going around about a powerful
-reasoning method. It's normally described as "[reasoning from 1st
+way to reason. It's normally described as "[reasoning from 1st
 principles](http://jamesclear.com/first-principles)".
 
 Most reasoning, the meme goes, is done by imitation or analogy.
 
 We ask:
 
-* "what have I or someone else done in similar situations in the past and
-how does that apply to my current situation?".
+* "How do my past experiences apply to my current situation?"
 * "What would someone I respect do in this situation?"
 * "How would my mother discipline my child?"
 * "What would Jesus do?"
-* "How does my manager approach situations like this?"
+* "How does my manager approach problems like this?"
 * "How do other sunday school teachers handle off-topic questions?"
 
 Reasoning from 1st principles, by contrast, asks you to return to the
@@ -31,16 +30,16 @@ If you're worried about how you discipline your children you might ask:
 * "What underlies human behavior?"
 * "How do people learn?"
 * "What does learning mean anyways?"
-* "What am I actually trying to accomplish when I 'discipline' my
+* "What am I actually trying to accomplish when I discipline my
 children?"
 * "What are my various emotional/mental states when I'm around my
 children?"
-* "How do I know if my "discipline" is actually helping them?"
+* "How do I know if my discipline is actually helping them?"
 
-By continually asking and following these types of questions downward,
-we find and deeply understand the fundamental truths that underlie our
-specific problem. Armed with this renewed source of understanding, we can now
-reason more clearly about our problem.
+By continually asking and following answers to these types of questions
+downward, we find and deeply understand the fundamental truths that
+underlie our specific problems. Armed with this renewed source of
+understanding, we can now reason more clearly about our problem.
 
 Returning to our child discipline example, in the course of your
 pondering and asking and following answers downward you might reread
@@ -67,8 +66,11 @@ You might ask yourself, "am I really trying to "enlarge the soul" of
 my children?" "Do my children know without a doubt that my 'faithfulness
 is stronger than the cords of death'?".
 
-Elon Musk, the "Steve Jobs" of our era, is a big proponent of arguing
-from 1st principles. In [an
+With your increased clarity about teaching, loving, and disciplining
+children, you can now chart a new, more effective course.
+
+Elon Musk — founder of Tesla and SpaceX, the "Steve Jobs" of our era, is
+a big proponent of arguing from 1st principles. In [an
 interview](https://www.youtube.com/watch?v=L-s_3b5fRd8) he talked about
 his reasoning process before starting Tesla:
 
@@ -101,8 +103,9 @@ his reasoning process before starting Tesla:
 >a battery cell and you can have batteries that are much, much cheaper
 >than anyone realizes.”
 
-But as he's has said elsewhere, reasoning from first principles is
-*hard*. It's a costly, time-consuming way to make a decision.
+So reasoning from 1st principles is great but as Elon has said
+elsewhere, reasoning from first principles is *hard*. It's a costly,
+time-consuming way to make a decision.
 
 If we view various methods of decision-making as tools, we could say
 that reasoning by analogy/imitation is our common, inexpensive everyday
@@ -118,17 +121,17 @@ situations.
 Like it or not, we all face things we don't know how to handle. What are
 some of these?
 
-##### When we need a unique advantage
+##### We need a unique advantage
 * Entrepreneurship. You need to see things others don't see.
 * Where unusally high performance is needed e.g. grad school,
 difficult new job, a high-profile leadership position, etc.
 
-##### When we're stuck on a problem or underperforming
+##### We're stuck on a problem or underperforming
 * struggling with an important relationship
 * floundering in job/career
 * a faith crisis
 
-##### When we face an unusually hard decision
+##### We're facing an unusually hard decision
 * which college do I attend?
 * Which career path do I choose?
 * Do I date this person?
@@ -146,7 +149,7 @@ difficult new job, a high-profile leadership position, etc.
 
 ##### During periods of rapid change
 * working at a fast growing company
-* when facing multiple challenges
+* when facing multiple challenges simultaneously
 
 One of my favorite life lessons from being a software engineer is that
 the key to minimizing pain from screwups or unexpected problems is *not*
@@ -168,13 +171,12 @@ things over and over that you don't know how to face.
 One option is to dread unexpected problems [^1] and contort your life in
 any number of ways to avoid them.
 
-Another option is is to learn how to face novel problems as they
-arise and learn quickly on your feet (in part through 1st principle
-thinking).
+Another option is is to face novel problems as they arise and learn
+quickly on your feet (in part through 1st principle thinking).
 
 As [Joseph Smith said](https://en.wikiquote.org/wiki/Joseph_Smith,_Jr.),
-"A man is saved *no faster* than he gets knowledge" — saved in both a
-spiritual sense and saved from our troubles and woes.
+"A man is saved *no faster* than he gets knowledge" — new knowledge
+saves us from our troubles and avoiding learning prolongs our troubles.
 
 Joseph said on another occasion:
 
@@ -185,8 +187,7 @@ Joseph said on another occasion:
 >considerations of the darkest abyss, and expand upon the broad
 >considerations of eternal  expanse; he must commune with God*. How much
 >more dignified and noble are the thoughts of God,  than the vain
->imaginations of the human heart, none but fools will trifle with the
->souls of  men.
+>imaginations of the human heart.
 
 If we don't grapple with fundamental ideas then we're left, like the
 enchained slaves of Plato's cave, seeing only shadows of truths.
@@ -204,7 +205,7 @@ to himself to show his capacity.
 Reasoning from 1st principles doesn't protect us from bad decisions. We
 can be wrong about fundamentals truths. Our reasoning can be blinded by
 our fears.  But in the end, there's no way to progress in knowledge of
-God and Man unless we learn to think deep.
+God and Mankind unless we learn to think deep.
 
 [^1]: A coward dies a thousand times before his death, but the valiant
 taste of death but once. It seems to me most strange that men should
