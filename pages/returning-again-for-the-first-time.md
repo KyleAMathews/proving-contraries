@@ -10,7 +10,8 @@ will be to arrive where we started and know the place for the first
 time." — T. S. Eliot_
 
 I was first introduced to this quote a few months ago, in a talk from
-the April 2016 session of LDS General Conference by Elder Gerrit Gong.
+the [April 2016 session of LDS General Conference by Elder Gerrit
+Gong](https://www.lds.org/general-conference/2016/04/always-remember-him?lang=eng).
 
 I was spiritually bored, and the details of discipleship were starting
 to disappear into the backdrop of daily life. My faith felt sealed to
