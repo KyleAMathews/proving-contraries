@@ -27,6 +27,7 @@ module.exports = React.createClass({
           />
           <title>{title}</title>
           <link rel="shortcut icon" href={this.props.favicon} />
+          <link rel="alternate" type="application/atom+xml"href="/atom.xml" />
           <GoogleFont typography={typography} />
           <TypographyStyle typography={typography} />
         </head>
