@@ -64,8 +64,6 @@ feels better.
 
 ![putting green gif](https://adamsarson.files.wordpress.com/2013/07/07-18-13-tiger-one-knee-bunker.gif)
 
-https://adamsarson.files.wordpress.com/2013/07/07-18-13-tiger-one-knee-bunker.gif
-
 The putting green, through friction, gradually slows the rolling golf
 ball down, **decreasing overall momentum**.
 
