@@ -1,6 +1,6 @@
 ---
-title: TBD Title
-authorId: [Brad]
+title: A Time to Seek, and a Time To Lose
+authorId: The Utopian
 createdAt: 2016-08-01T20:08:00-07:00
 category: Faith
 ---
