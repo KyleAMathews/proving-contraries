@@ -23,7 +23,12 @@ class Authors extends React.Component {
           </h1>
           <h3>The Utopian</h3>
           <p>
-            The Utopian is pretty cool and should write a bio for himself.
+            The Utopian is a Washington D.C. lawyer and a convert to
+            Catholicism. He is fascinated by the traditions, richness, and
+            history of the Christian Faith but also ecumenicalism and the
+            promise of the universal church. He is continuing to pursue an
+            understanding of the inexplicable goodness of our Lord and how to
+            grow in love of God and love of neighbor.
           </p>
           <h3>[Laura]</h3>
           <p>
@@ -31,11 +36,11 @@ class Authors extends React.Component {
           </p>
           <h3>Pascal</h3>
           <p>
-             Pascal is a software engineer in Silicon Valley. A convert to
-             Mormonism, he loves the expansive theology sketched in latter-day
-             scriptures and explored by Joseph Smith. He hopes to nourish the
-             trees of both modernity and the Church via some experimental
-             grafting.
+            Pascal is a software engineer in Silicon Valley. A convert to
+            Mormonism, he loves the expansive theology sketched in latter-day
+            scriptures and explored by Joseph Smith. He hopes to nourish the
+            trees of both modernity and the Church via some experimental
+            grafting.
           </p>
           <h3>Locke</h3>
           <p>

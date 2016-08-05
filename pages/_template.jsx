@@ -4,7 +4,7 @@ import { Link } from 'react-router'
 import Headroom from 'react-headroom'
 import includes from 'lodash/includes'
 
-import { rhythm } from 'utils/typography'
+import { rhythm, adjustFontSizeTo } from 'utils/typography'
 import Display from 'components/Display'
 import MenuNavItem from 'components/MenuNavItem'
 
