@@ -2,6 +2,7 @@ import React from 'react'
 import gray from 'gray-percentage'
 import DocumentTitle from 'react-document-title'
 import moment from 'moment'
+import DisqusThread from 'react-disqus-thread'
 
 import { config } from 'config'
 import { rhythm, adjustFontSizeTo } from 'utils/typography'
@@ -35,6 +36,11 @@ module.exports = React.createClass({
             By {post.authorId} <Bullet /> {moment(post.createdAt).format('MMM D, YYYY')} <Bullet /> {post.category}
           </div>
           <div dangerouslySetInnerHTML={{ __html: post.body }} />
+          <DisqusThread
+            shortname="kindlinglight"
+            title={post.title}
+            url={"https://kindlinglight.com#{this.props.route.page.path}"}
+          />
         </div>
       </DocumentTitle>
     )
