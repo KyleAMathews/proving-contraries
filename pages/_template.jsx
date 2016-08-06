@@ -35,7 +35,7 @@ const blogHeader = (
             fontFamily: '"Alegreya SC",sans-serif',
           }}
         >
-          Kindling Sparks
+          Kindling Light
         </h5>
       </Link>
     </Container>
@@ -59,7 +59,7 @@ const indexPageHeader = (
         textDecoration: 'none',
       }}
     >
-      Kindling Sparks
+      Kindling Light
     </Link>
   </Display>
   <div

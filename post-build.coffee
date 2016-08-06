@@ -19,10 +19,10 @@ module.exports = (pages, callback) ->
 
 generateAtomFeed = (pages) ->
   feed = new Feed({
-    title:       'Kindling Sparks',
+    title:       'Kindling Light',
     description: 'A theology blog!',
-    link:        'https://kindlingsparks.org/',
-    id:        'https://kindlingsparks.org/',
+    link:        'https://kindlinglight.com/',
+    id:        'https://kindlinglight.com/',
     copyright:   'All rights reserved 2016',
   })
 
@@ -34,8 +34,8 @@ generateAtomFeed = (pages) ->
   ).slice(0,10)
     feed.addItem({
       title: page.data.title
-      id: "https://kindlingsparks.org#{page.path}"
-      link: "https://kindlingsparks.org#{page.path}"
+      id: "https://kindlinglight.com#{page.path}"
+      link: "https://kindlinglight.com#{page.path}"
       date: moment(page.data.createdAt).toDate()
       content: md.render(
         frontmatter(

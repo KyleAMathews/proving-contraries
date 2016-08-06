@@ -1,4 +1,4 @@
-# Kindling Sparks
+# Kindling Light
 
 A theology blog! Not much to see here just yet...
 

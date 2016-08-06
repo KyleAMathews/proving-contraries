@@ -17,7 +17,7 @@ class About extends React.Component {
         >
           About
         </h1>
-        <p>Kindling Sparks is a group theology blog started by a small
+        <p>Kindling Light is a group theology blog started by a small
           group of friends in 2016. We're currently composed of 4 Mormons and 1 Catholic.
         </p>
       </Container>
