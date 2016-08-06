@@ -6,7 +6,7 @@ createdAt: 2016-07-11T01:14:24.349Z
 ---
 
 Here in Silicon Valley, there's a meme going around about a powerful
-way to reason. It's normally described as "[reasoning from 1st
+way to reason called "[reasoning from 1st
 principles](http://jamesclear.com/first-principles)".
 
 Most reasoning, the meme goes, is done by imitation or analogy.

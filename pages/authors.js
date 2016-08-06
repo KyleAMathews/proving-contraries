@@ -30,10 +30,6 @@ class Authors extends React.Component {
             understanding of the inexplicable goodness of our Lord and how to
             grow in love of God and love of neighbor.
           </p>
-          <h3>[Laura]</h3>
-          <p>
-            [Laura] is pretty cool and should write a bio for herself.
-          </p>
           <h3>Pascal</h3>
           <p>
             Pascal is a software engineer in Silicon Valley. A convert to
