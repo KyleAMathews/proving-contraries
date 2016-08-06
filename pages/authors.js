@@ -21,7 +21,7 @@ class Authors extends React.Component {
           >
             Authors
           </h1>
-          <h3>The Utopian</h3>
+          <h3 style={{ marginTop: rhythm(2) }}>The Utopian</h3>
           <p>
             The Utopian is a Washington D.C. lawyer and a convert to
             Catholicism. He is fascinated by the traditions, richness, and
@@ -30,7 +30,7 @@ class Authors extends React.Component {
             understanding of the inexplicable goodness of our Lord and how to
             grow in love of God and love of neighbor.
           </p>
-          <h3>Pascal</h3>
+          <h3 style={{ marginTop: rhythm(2) }}>Pascal</h3>
           <p>
             Pascal is a software engineer in Silicon Valley. A convert to
             Mormonism, he loves the expansive theology sketched in latter-day
@@ -38,7 +38,7 @@ class Authors extends React.Component {
             trees of both modernity and the Church via some experimental
             grafting.
           </p>
-          <h3>Locke</h3>
+          <h3 style={{ marginTop: rhythm(2) }}>Locke</h3>
           <p>
             Locke is a software engineer and entreprenuer that lives in San Francisco.
             He is fascinated by science and technology and the world of ideas. He loves
@@ -46,8 +46,11 @@ class Authors extends React.Component {
             He is fascinated by his Mormon intellectual inheritance and loves to mashup
             these ideas with other intellectual explorations.
           </p>
-          <h3>Tyndale</h3>
-          <p> Tyndale is a religion-loving lawyer in
+          <h3 style={{ marginTop: rhythm(2) }}>Tyndale</h3>
+          <p
+            style={{ marginBottom: rhythm(2) }}
+          >
+            Tyndale is a religion-loving lawyer in
             Silicon Valley.  She is actively engaged in
             reexamining Mormonism in light of the simple
             messages of love, grace, and freedom embodied
