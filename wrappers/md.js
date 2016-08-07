@@ -39,7 +39,7 @@ module.exports = React.createClass({
           <DisqusThread
             shortname="kindlinglight"
             title={post.title}
-            url={"https://kindlinglight.com#{this.props.route.page.path}"}
+            url={`https://kindlinglight.com${this.props.route.page.path}`}
           />
         </div>
       </DocumentTitle>
