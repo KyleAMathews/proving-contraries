@@ -2,7 +2,7 @@ import React from 'react'
 import gray from 'gray-percentage'
 import DocumentTitle from 'react-document-title'
 import moment from 'moment'
-import DisqusThread from 'react-disqus-thread'
+import DisqusThread from '../components/DisqusThread'
 
 import { config } from 'config'
 import { rhythm, adjustFontSizeTo } from 'utils/typography'
@@ -40,6 +40,7 @@ module.exports = React.createClass({
             shortname="kindlinglight"
             title={post.title}
             url={`https://kindlinglight.com${this.props.route.page.path}`}
+            identifier={`https://kindlinglight.com${this.props.route.page.path}`}
           />
         </div>
       </DocumentTitle>
