@@ -10,7 +10,7 @@ export default class Disqus extends React.Component {
     this.setState(nextProps)
   }
 
-  componentWillMount () {
+  componentDidMount () {
     const component = this
     if (typeof DISQUS !== 'undefined'){
       DISQUS.reset({
@@ -23,7 +23,7 @@ export default class Disqus extends React.Component {
           this.callbacks.onNewComment = component.state.onNewComment
         }
       })
-    }else{
+    } else{
       if (typeof document != 'undefined') {
         const script = document.createElement('script')
         script.src = `//${component.state.shortname}.disqus.com/embed.js`
