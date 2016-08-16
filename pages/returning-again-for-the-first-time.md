@@ -2,7 +2,7 @@
 title: Returning Again, for the First Time
 createdAt: 2016-08-01T11:07:00-07:00
 category: Scripture Readings
-authorId: [Laura]
+authorId: Hildegard
 ---
 
 _"We shall not cease from exploration, and the end of all our exploring

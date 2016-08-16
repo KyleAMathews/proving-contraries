@@ -38,6 +38,14 @@ class Authors extends React.Component {
             trees of both modernity and the Church via some experimental
             grafting.
           </p>
+          <h3 style={{ marginTop: rhythm(2) }}>Hildegard</h3>
+          <p>
+            Hildegard von Bingen is an advocate against domestic violence
+            currently pursuing a PhD on the subject in the Bay Area. Music is
+            the voice of her worship, and she thanks her namesake for her
+            pioneering work in music, religion, and for the
+            disenfranchised.
+          </p>
           <h3 style={{ marginTop: rhythm(2) }}>Locke</h3>
           <p>
             Locke is a software engineer and entreprenuer that lives in San Francisco.
