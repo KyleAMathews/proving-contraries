@@ -162,8 +162,8 @@ them.
 
 And finally, we need guidance from the Holy Ghost. It doesn’t come as
 often as I’m sure anyone wants but I testify it does come when we’re
-worthy and asking and the Lord chooses to bless us with it. Expect it
-and write it down when it comes and treasure and ponder it.
+worthy and asking and the Lord chooses to bless us with it. Expect it,
+record it and treasure and ponder it.
 
 >For the Spirit speaketh the truth and lieth not. Wherefore, *it speaketh
 of things as they really are*, and of things as they really will be;
